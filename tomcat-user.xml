@@ -8,6 +8,6 @@
     <role rolename="manager-script"/>
 
     <user username="tomcat"
-          password="raham123"
+          password="nishant123"
           roles="manager-gui,manager-script"/>
 </tomcat-users>
